@@ -23,7 +23,7 @@ no-shows, phantom capacity, production, and patient journeys – and then want t
 
 ---
 
-### 🧠 AI, Data & Automation focus
+###  AI, Data & Automation focus
 
 - Predictive models for no-shows / late cancels and phantom capacity
 - Pipelines that feed LLM/AI agents with structured, governed ops data
@@ -33,7 +33,7 @@ no-shows, phantom capacity, production, and patient journeys – and then want t
 
 ---
 
-### 🧰 My toolbox
+###  My toolbox
 
 Languages
 
@@ -84,7 +84,7 @@ Data & Analytics
 
 ---
 
-### 📌 What I’m interested in
+###  What I’m interested in
 
 - Building infrastructure and automations for dental & healthtech AI platforms  
 - Making PMS data clean, real-time, and AI-ready  
@@ -92,7 +92,7 @@ Data & Analytics
 
 ---
 
-### 🤝 Let’s connect
+###  Let’s connect
 
 If you’re:
 
